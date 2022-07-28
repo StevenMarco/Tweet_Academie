@@ -1,0 +1,92 @@
+.banner{
+    border: 1px solid black;
+    width: 45%;
+    height: 55%;
+   
+}
+.avatar{
+    
+    position: relative;
+    width: 15%;
+    height: 15%;
+    bottom: 10%;
+    right: 40%;
+}
+
+/*.pictures{
+    position: relative;
+    border: 1px solid black;
+    width: 35%;
+    height: 25%;
+   left: 50%;
+   
+}
+.pictures .avatar{
+    border: 1px solid black;
+    position: relative;
+    top: 10%;
+    right: 32%;
+}
+.pictures .banner{
+    border: 1px solid black;
+    position: relative;
+    top: 10%;
+    right: 32%;
+}*/
+
+.pictures .banner{
+    border: 1px solid black;
+    position: relative;
+    top: 10%;
+    right: 32%;
+}*/
+
+#follow{
+    position: relative;
+    top: 45%;
+    left: 47%
+}
+
+/*.info{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+<<<<<<< HEAD
+}*/
+
+
+/* rajout pour tweet */
+.set_tweet_picture {
+    padding: 0% 10%;
+    width: 100%;
+    height: auto;
+    border-radius: 0.4em;
+}
+
+.a_none {
+    text-decoration: none;
+    color: black;
+}
+
+.comment-item {
+    border: 0.1em solid black;
+    margin-bottom: 5%;
+    width: 50%;
+    margin: 0% 25%;
+}
+
+.svg {
+    max-width: 100%;
+    height: 2em;
+}
+
+.svg-light {
+    max-width: 100%;
+    height: 1.2rem;
+}
+
+.likes:hover {
+    border: 0.1em solid red;
+    box-shadow: 0.2em 0.2em 0.2em black;
+}
+
